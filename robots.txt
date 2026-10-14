@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://loudandconfident.github.io/sitemap.xml
